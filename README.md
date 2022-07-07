@@ -12,5 +12,5 @@ Convert a collection of text documents to a matrix of token counts.
 
 
 References:
-1- https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
-2- https://scikit-learn.org/stable/modules/feature_extraction.html
+1- https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html.   
+2- https://scikit-learn.org/stable/modules/feature_extraction.html.  
