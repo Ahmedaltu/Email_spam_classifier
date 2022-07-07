@@ -14,6 +14,9 @@ The lower and upper boundary of the range of n-values for different word n-grams
 
  unigrams: Sequence of one words element
  bigrams: Sequence of two words element
+ 
+ 
+ 
 -------------------------------------------------------
 References:    
 1- https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html.   
